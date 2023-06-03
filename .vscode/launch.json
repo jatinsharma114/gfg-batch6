@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hksharma/batch6-gfg/day1",
-      "program": "c:/Users/hksharma/batch6-gfg/day1/build/Debug/outDebug",
+      "cwd": "c:/Users/hksharma/hitesupes/gfg-batch6",
+      "program": "c:/Users/hksharma/hitesupes/gfg-batch6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
